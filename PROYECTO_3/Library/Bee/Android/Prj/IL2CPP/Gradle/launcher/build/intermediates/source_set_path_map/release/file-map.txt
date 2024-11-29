@@ -1,0 +1,12 @@
+com.unity.template.ar_mobile.launcher-jetified-VuforiaEngine-0 C:\Users\avata\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\res
+com.unity.template.ar_mobile.launcher-jetified-arcore_client-1 C:\Users\avata\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.unity.template.ar_mobile.launcher-pngs-2 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.unity.template.ar_mobile.launcher-resValues-3 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.unity.template.ar_mobile.launcher-rs-4 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.unity.template.ar_mobile.launcher-mergeReleaseResources-5 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.unity.template.ar_mobile.launcher-mergeReleaseResources-6 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.unity.template.ar_mobile.launcher-merged_res-7 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.unity.template.ar_mobile.launcher-main-8 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.unity.template.ar_mobile.launcher-release-9 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.unity.template.ar_mobile.launcher-packaged_res-10 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.unity.template.ar_mobile.launcher-packaged_res-11 C:\Users\avata\PROYECTO_3\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
